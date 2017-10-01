@@ -9,7 +9,7 @@ This configuration is a fork of [bcremers nginx configuration for Shopware](http
 Please only use nginx if you know what you are doing. Shopware AG provides no support for running nginx as appserver. 
 
 ## Compatibility
-This configuration is tested with Shopware 5.1 or later, NGINX 1.10.3 and PHP-FPM 7.0.15.
+This configuration is tested with Shopware 5.1 or later, NGINX 1.12.1 and PHP-FPM 7.0.22.
 
 ## Installation
 
